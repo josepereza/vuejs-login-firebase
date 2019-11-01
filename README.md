@@ -1,5 +1,7 @@
 # login
 
+![Alt text](vue_login.png)
+
 ## Project setup
 ```
 npm install
